@@ -1,1 +1,1 @@
-# machine-learning
+Machine Learning course from Lund University
